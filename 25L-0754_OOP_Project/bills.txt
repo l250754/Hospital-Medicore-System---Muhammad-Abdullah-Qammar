@@ -1,0 +1,4 @@
+bill_id,patient_id,appointment_id,amount,status,date
+1,2,1,10000,cancelled,20-07-2026
+2,2,2,10000,unpaid,20-07-2026
+3,1,3,6,unpaid,20-07-2028

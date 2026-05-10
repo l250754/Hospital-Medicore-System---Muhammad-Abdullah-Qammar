@@ -1,0 +1,3 @@
+patient_id,name,age,gender,contact,discharge_date
+1,Test User,22,M,03001234567,Sun May 10 20:45:49 2026 
+PATIENT,2,Ali Test,21,M,03001234567,pass123,0

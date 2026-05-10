@@ -1,0 +1,10 @@
+Sun May 10 20:38:06 2026  | Role: Patient | ID: 1 | Result: Registered
+Sun May 10 20:38:06 2026  | Role: Patient | ID: 1 | Result: LoginSuccessful
+Sun May 10 21:03:37 2026  | Role: Patient | ID: 2 | Result: Registered
+Sun May 10 21:03:37 2026  | Role: Patient | ID: 2 | Result: FAILED
+Sun May 10 21:03:37 2026  | Role: Patient | ID: 1 | Result: FAILED
+Sun May 10 21:03:37 2026  | Role: Patient | ID: 8 | Result: FAILED
+Sun May 10 21:03:37 2026  | Role: Patient | ID: 0 | Result: FAILED
+Sun May 10 21:03:37 2026  | Role: Patient | ID: 0 | Result: FAILED
+Sun May 10 21:03:37 2026  | Role: Patient | ID: 0 | Result: FAILED
+Sun May 10 21:03:45 2026  | Role: Patient | ID: 2 | Result: LoginSuccessful

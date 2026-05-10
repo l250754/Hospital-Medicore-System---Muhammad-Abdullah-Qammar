@@ -1,0 +1,1 @@
+prescription_id,appointment_id,patient_id,doctor_id,date,medicines,notes

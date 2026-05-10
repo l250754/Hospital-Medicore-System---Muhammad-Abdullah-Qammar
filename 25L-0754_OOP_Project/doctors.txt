@@ -1,0 +1,4 @@
+doctor_id,name,specialization,contact,password,fee
+2,Dr Abd,cardiac surgeon,03889988090,abd1234,10000
+3,Charles,Resp,03778879880,abd1234,6
+4,10,cardiac surgeon,03008868000,abd1234,50000
