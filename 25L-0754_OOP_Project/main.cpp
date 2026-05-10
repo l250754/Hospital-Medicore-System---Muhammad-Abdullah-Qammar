@@ -519,7 +519,7 @@ int runVisualRoleMenu(const char* windowTitle, const char* header, const char* s
     sf::Text hint("", font, 18);
     hint.setFillColor(sf::Color(50, 50, 50));
     if (optionCount >= 10)
-        hint.setString("Click an option, or press digits (0-9) then Enter (e.g. 1 0 Enter for 10), Backspace edits, Esc = logout");
+        hint.setString("Click an option, or Enter Digits, Backspace edits, Esc = logout");
     else
         hint.setString("Click an option, press number keys, or Esc to logout");
     themeCenterTextX(hint, APP_WIN_W, (float)APP_WIN_H - 42.0f);
